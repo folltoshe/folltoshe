@@ -16,8 +16,8 @@
         <img src="https://wakatime.com/badge/user/8d5b9272-e942-42b6-9d05-a3340feb0fcb.svg" />
         <div>
           <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=folltoshe&text_color=f0f6fc&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=folltoshe&text_color=1f2328&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light)" />
+            <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@folltoshe&text_color=f0f6fc&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
+            <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@folltoshe&text_color=1f2328&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light)" />
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=folltoshe&text_color=f0f6fc&bg_color=00000000&hide_border=true" />
           </picture>
         </div>
