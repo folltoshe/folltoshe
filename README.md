@@ -12,6 +12,20 @@
     <br />
     <!--  -->
     <div>
+      <img src="https://streak-stats.demolab.com?user=folltoshe&theme=github-dark-blue&locale=zh_Hans&card_width=600&card_height=200" alt="GitHub Streak" />
+      <br />
+      <div>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=folltoshe&theme=dark&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=folltoshe&theme=light&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=folltoshe&theme=dark&hide_border=true" />
+        </picture>
+      </div>
+    </div>
+    <!--  -->
+    <br />
+    <!--  -->
+    <div>
       <a href="https://wakatime.com/@folltoshe">
         <img src="https://wakatime.com/badge/user/8d5b9272-e942-42b6-9d05-a3340feb0fcb.svg" />
         <div>
@@ -22,20 +36,6 @@
           </picture>
         </div>
       </a>
-    </div>
-    <!--  -->
-    <br />
-    <!--  -->
-    <div>
-      <img src="https://streak-stats.demolab.com?user=folltoshe&theme=github-dark-blue&locale=zh_Hans&card_width=600&card_height=200" alt="GitHub Streak" />
-      <br />
-      <div>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=folltoshe&theme=dark&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=folltoshe&theme=light&hide_border=true" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=folltoshe&theme=dark&hide_border=true" />
-        </picture>
-      </div>
     </div>
   </div>
 
