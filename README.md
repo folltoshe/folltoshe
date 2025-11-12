@@ -1,7 +1,6 @@
 <div align="center">
   <div>
     <h3>We are gonna make it untied.</h3>
-    <h4>所谓破晓 终将自由</h4>
   </div>
 
   <br />
@@ -43,16 +42,18 @@
 
   <div>
     <div>
-      <h3>Tools</h2>
+      <h3>Tools</h3>
       <!--  -->
       <br />
       <!--  -->
       <div>
-        <img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white" alt="Edge" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" alt="GitHub" />
+        <!--  -->
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff" alt="Visual Studio Code" />
         <img src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git" alt="Git" />
-        <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" alt="GitHub" />
+        <!--  -->
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/Linux-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Linux" />
       </div>
     </div>
   </div>
