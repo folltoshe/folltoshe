@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h3>曾许下心愿 等待你 的出现</h3>
+    <h3>It's better this way</h3>
   </div>
 
   <br />
