@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h3>It's better this way</h3>
+    <h3>To light up my new road</h3>
   </div>
 
   <br />
