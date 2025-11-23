@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h3>To light up my new road</h3>
+    <h3>Until we find a world</h3>
   </div>
 
   <br />
