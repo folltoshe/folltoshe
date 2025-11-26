@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h3>回忆里充满着罗曼蒂克的幻想</h3>
+    <h3>What was all of it for</h3>
   </div>
 
   <br />
