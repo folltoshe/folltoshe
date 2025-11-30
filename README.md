@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h3>I told you I'd change even when I knew I never could</h3>
+    <h3>就像已伤的心 不胜折磨</h3>
   </div>
 
   <br />
