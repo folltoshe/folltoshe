@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-   <h3>Legends aren't born that way</h3>
+   <h3>Bloodline denotes nothing</h3>
   </div>
 
   <br />
