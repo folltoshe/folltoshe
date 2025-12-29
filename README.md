@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-   <h3>And achievements rise from the ash?</h3>
+   <h3>We endure and suffer lose and bleed</h3>
   </div>
 
   <br />
