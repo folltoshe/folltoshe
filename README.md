@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-   <h3>We endure and suffer lose and bleed</h3>
+   <h3>You and I, still clash against the sky</h3>
   </div>
 
   <br />
