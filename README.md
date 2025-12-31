@@ -1,6 +1,7 @@
 <div align="center">
   <div>
-   <h3>You and I, still clash against the sky</h3>
+   <h3>You and I, we are gonna free to rise</h3>
+   <h3>你我将仍与天穹相搏</h3>
   </div>
 
   <br />
